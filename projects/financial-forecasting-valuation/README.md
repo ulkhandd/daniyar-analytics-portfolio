@@ -18,5 +18,5 @@ The original Excel workbook was not found in the local project scan. This folder
 
 ## Files
 
+- `notebooks/valuation-model-workflow.ipynb` - GitHub-viewable DCF, WACC, CAPM, NPV, IRR, and sensitivity workflow reconstruction
 - `docs/model-outline.md` - valuation model structure and reviewer notes
-

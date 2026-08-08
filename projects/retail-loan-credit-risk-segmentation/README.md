@@ -35,8 +35,8 @@ The raw LendingClub dataset is excluded from GitHub because of size and source-d
 ## Files
 
 - `docs/supervised-credit-risk-report.md` - polished supervised report
+- `notebooks/retail-loan-credit-risk-workflow.ipynb` - GitHub-viewable workflow reconstruction based on the reports
 - `reports/Supervised_Daniyar.pdf` - original supervised report
 - `reports/Unsupervised_Daniyar.pdf` - original unsupervised report
 - `reports/loan_analysis_Daniyar.pptx` - presentation artifact
 - `data/README.md` - raw-data handling notes
-

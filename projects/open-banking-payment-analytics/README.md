@@ -38,6 +38,7 @@ The full raw CSV is excluded from GitHub because it is large. A small sample is 
 - `src/analyze_payments.py` - reproducible analysis script
 - `notebooks/payment-performance-analysis.ipynb` - sanitized analysis notebook
 - `notebooks/truelayer-sandbox-api-pipeline.ipynb` - sanitized sandbox API notebook
+- `notebooks/open-banking-payment-analysis-homework.ipynb` - GitHub-viewable source notebook found in the local project scan
 - `data/sample_payments.csv` - small GitHub-safe sample
 - `outputs/` - summary metrics generated from the full local dataset
 - `reports/PaymentAnalysis_Daniyar.pptx` - presentation artifact
@@ -61,4 +62,3 @@ Run on the full local dataset:
 ```bash
 python src/analyze_payments.py --input path/to/truelayer_analytics_test_data_set.csv --output outputs/full_run
 ```
-

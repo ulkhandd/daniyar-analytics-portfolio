@@ -16,12 +16,6 @@ Can boosting improve fraud detection on highly imbalanced transaction data compa
 
 Credit-card fraud datasets were found locally, but the completed project notebook or script was not found in the scan. This folder preserves the project as a case-study entry and marks the missing source artifact honestly.
 
-## Next Reconstruction Step
+## Files
 
-Rebuild the notebook from the local `creditcard.csv` archive and add:
-
-- `src/train_boosting_model.py`
-- `notebooks/fraud-detection-boosting.ipynb`
-- `outputs/model_comparison.csv`
-- `outputs/confusion_matrices.csv`
-
+- `notebooks/fraud-detection-boosting-workflow.ipynb` - GitHub-viewable workflow reconstruction for imbalanced fraud classification with AdaBoost
