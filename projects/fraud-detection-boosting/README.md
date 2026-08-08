@@ -14,8 +14,8 @@ Can boosting improve fraud detection on highly imbalanced transaction data compa
 
 ## Artifact Status
 
-Credit-card fraud datasets were found locally, but the completed project notebook or script was not found in the scan. This folder preserves the project as a case-study entry and marks the missing source artifact honestly.
+The project notebook is included as the primary reviewable artifact. The raw `creditcard.csv` dataset is excluded from GitHub because it is source data.
 
 ## Files
 
-- `notebooks/fraud-detection-boosting-workflow.ipynb` - GitHub-viewable workflow reconstruction for imbalanced fraud classification with AdaBoost
+- `notebooks/fraud_detection.ipynb` - GitHub-viewable fraud detection notebook with AdaBoost, baselines, class-imbalance analysis, and model evaluation

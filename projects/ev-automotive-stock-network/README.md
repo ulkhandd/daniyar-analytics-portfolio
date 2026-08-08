@@ -21,12 +21,11 @@ The resume-backed version used a 39-node residual-correlation network over 2022-
 
 ## Artifact Status
 
-The original notebook was not found in the local scan. This folder provides a clean reproducible notebook and script aligned with the project description, so the project is visible and reviewable on GitHub.
+The source notebook was found in the local `auto_network_project` folder and added here as the primary GitHub-viewable artifact.
 
 ## Files
 
-- `notebooks/ev-ecosystem-stock-network-analysis.ipynb` - GitHub-viewable source notebook found in the local project folder
-- `notebooks/ev-stock-network-analysis.ipynb` - clean reproducible notebook with the full analysis workflow
+- `notebooks/auto_network.ipynb` - GitHub-viewable source notebook
 - `src/build_stock_network.py` - reproducible script for data pull, residualization, network build, and graph metrics
 - `outputs/` - generated output directory when the script is run
 

@@ -8,9 +8,18 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
 # Raw data and large local artifacts
 data/raw/
 **/data/raw/
+creditcard.csv
+loan_data_2007_2014.csv
+truelayer_analytics_test_data_set.csv
 *.csv.zip
 *.zip
 *.parquet
@@ -28,4 +37,3 @@ Thumbs.db
 # Temporary output
 tmp/
 output/
-

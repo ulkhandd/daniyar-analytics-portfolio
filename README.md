@@ -7,11 +7,10 @@ This repository is a hiring-focused portfolio for data, finance, and risk analyt
 | Project | Domain | Main Tools | Proof Artifacts |
 |---|---|---|---|
 | [Open Banking Payment Performance Analytics](projects/open-banking-payment-analytics/README.md) | Product analytics, FinTech, payments | Python, pandas, matplotlib | Notebook, analysis script, summary outputs, presentation |
-| [Retail Loan Portfolio Analysis](projects/retail-loan-credit-risk-segmentation/README.md) | Credit risk, machine learning | R, FAMD, k-means, LDA, Random Forest | Supervised report, unsupervised report, presentation |
+| [Retail Loan Portfolio Analysis](projects/retail-loan-credit-risk-segmentation/README.md) | Credit risk, machine learning | R, FAMD, k-means, LDA, Random Forest | R project source, supervised report, unsupervised report, presentation |
 | [Market-Neutral EV/Automotive Stock Network](projects/ev-automotive-stock-network/README.md) | Financial networks, graph analytics | Python, pandas, NetworkX, scikit-learn | GitHub-viewable notebook and script |
-| [Financial Forecasting & Valuation Model](projects/financial-forecasting-valuation/README.md) | Corporate finance, valuation | Excel, DCF, WACC, CAPM | GitHub-viewable valuation workflow notebook |
-| [Fraud Detection with Boosting](projects/fraud-detection-boosting/README.md) | Fraud analytics, imbalanced classification | Python, AdaBoost, decision trees | GitHub-viewable boosting workflow notebook |
-| [Payment & Product Analytics Labs](projects/product-payment-analytics-labs/README.md) | Product analytics, payments | Python, pandas, notebook analysis | Three GitHub-viewable lab notebooks |
+| [Financial Forecasting & Valuation Model](projects/financial-forecasting-valuation/README.md) | Corporate finance, valuation | Excel, DCF, WACC, CAPM | Case-study summary and model outline |
+| [Fraud Detection with Boosting](projects/fraud-detection-boosting/README.md) | Fraud analytics, imbalanced classification | Python, AdaBoost, decision trees | GitHub-viewable project notebook |
 
 ## What Reviewers Should Notice
 
