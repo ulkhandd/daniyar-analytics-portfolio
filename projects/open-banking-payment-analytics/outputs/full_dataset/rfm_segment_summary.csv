@@ -1,0 +1,6 @@
+segment,customers,payments,tpv,median_recency_days
+champion,40,368561,9683889.78,0.0
+at_risk,13,3641,429055.05,316.0
+high_value,10,956,178880.52,12.5
+standard,81,4328,38360.08,133.0
+new_or_reactivated,9,130,11445.77,2.0

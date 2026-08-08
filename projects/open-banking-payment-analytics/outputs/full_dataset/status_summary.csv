@@ -1,0 +1,8 @@
+status_clean,payments,share
+executed,377616,0.755232
+failed,45305,0.09061
+initiated,34050,0.0681
+cancelled,18798,0.037596
+created,18791,0.037582
+rejected,4058,0.008116
+in_progress,1382,0.002764

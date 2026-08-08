@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data and large local artifacts
+data/raw/
+**/data/raw/
+*.csv.zip
+*.zip
+*.parquet
+*.feather
+
+# Keep project samples and generated summaries
+!projects/**/data/*sample*.csv
+!projects/**/outputs/*.csv
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary output
+tmp/
+output/
+

@@ -1,0 +1,14 @@
+metric,value
+total_payments,500000.0
+unique_customers,173.0
+unique_banks,203.0
+unique_countries,14.0
+executed_payments,377616.0
+execution_rate,0.755232
+failed_payments,45305.0
+failure_rate,0.09061
+cancelled_payments,18798.0
+executed_tpv,10341631.200000001
+executed_aov,27.38663404093047
+median_e2e_latency_seconds,34.6867865
+expired_share_of_failed,0.5114887981459
