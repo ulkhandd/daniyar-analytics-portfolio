@@ -37,8 +37,7 @@ The raw LendingClub dataset is excluded from GitHub because of size and source-d
 - `r-project/loan.R` - unsupervised borrower segmentation workflow
 - `r-project/supervised.R` - supervised charge-off classification workflow
 - `r-project/unsupervised_loan.Rproj` - RStudio project file
-- `docs/supervised-credit-risk-report.md` - polished supervised report
-- `reports/Supervised_Daniyar.pdf` - original supervised report
-- `reports/Unsupervised_Daniyar.pdf` - original unsupervised report
-- `reports/loan_analysis_Daniyar.pptx` - presentation artifact
+- `docs/Supervised_Daniyar.pdf` - supervised credit-risk report
+- `docs/Unsupervised_Daniyar.pdf` - unsupervised borrower-segmentation report
+- `reports/loan_analysis_Daniyar.pptx` - presentation deck
 - `data/README.md` - raw-data handling notes

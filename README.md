@@ -4,13 +4,13 @@ This repository is a hiring-focused portfolio for data, finance, and risk analyt
 
 ## Featured Projects
 
-| Project | Domain | Main Tools | Proof Artifacts |
+| Project | Domain | Main Tools | Files |
 |---|---|---|---|
 | [Open Banking Payment Performance Analytics](projects/open-banking-payment-analytics/README.md) | Product analytics, FinTech, payments | Python, pandas, matplotlib | Notebook, analysis script, summary outputs, presentation |
 | [Retail Loan Portfolio Analysis](projects/retail-loan-credit-risk-segmentation/README.md) | Credit risk, machine learning | R, FAMD, k-means, LDA, Random Forest | R project source, supervised report, unsupervised report, presentation |
-| [Market-Neutral EV/Automotive Stock Network](projects/ev-automotive-stock-network/README.md) | Financial networks, graph analytics | Python, pandas, NetworkX, scikit-learn | GitHub-viewable notebook and script |
-| [Financial Forecasting & Valuation Model](projects/financial-forecasting-valuation/README.md) | Corporate finance, valuation | Excel, DCF, WACC, CAPM | Case-study summary and model outline |
-| [Fraud Detection with Boosting](projects/fraud-detection-boosting/README.md) | Fraud analytics, imbalanced classification | Python, AdaBoost, decision trees | GitHub-viewable project notebook |
+| [Market-Neutral EV/Automotive Stock Network](projects/ev-automotive-stock-network/README.md) | Financial networks, graph analytics | Python, pandas, NetworkX, scikit-learn | Notebook and script |
+| [Financial Forecasting & Valuation Model](projects/financial-forecasting-valuation/README.md) | Corporate finance, valuation | Excel, DCF, WACC, CAPM | Model outline |
+| [Fraud Detection with Boosting](projects/fraud-detection-boosting/README.md) | Fraud analytics, imbalanced classification | Python, AdaBoost, decision trees | Project notebook |
 
 ## What Reviewers Should Notice
 

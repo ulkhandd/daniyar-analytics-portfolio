@@ -12,10 +12,6 @@ What is the implied value of a public company under a multi-year forecast, disco
 - Calculated NPV and IRR for investment analysis
 - Used DCF logic to connect operating forecasts to valuation conclusions
 
-## Artifact Status
-
-The original Excel workbook was not found in the local project scan. This folder preserves the project as a case study and includes a structured model outline for future workbook reconstruction.
-
 ## Files
 
 - `docs/model-outline.md` - valuation model structure and reviewer notes

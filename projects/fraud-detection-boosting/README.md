@@ -12,10 +12,10 @@ Can boosting improve fraud detection on highly imbalanced transaction data compa
 - Evaluated fraud-screening performance using precision, recall, F1 score, PR-AUC, and confusion matrices
 - Prioritized fraud recall and false-positive trade-offs over raw accuracy
 
-## Artifact Status
+## Data
 
-The project notebook is included as the primary reviewable artifact. The raw `creditcard.csv` dataset is excluded from GitHub because it is source data.
+The raw `creditcard.csv` dataset is excluded from GitHub because of size and source-data constraints.
 
 ## Files
 
-- `notebooks/fraud_detection.ipynb` - GitHub-viewable fraud detection notebook with AdaBoost, baselines, class-imbalance analysis, and model evaluation
+- `notebooks/fraud_detection.ipynb` - fraud detection notebook with AdaBoost, baselines, class-imbalance analysis, and model evaluation

@@ -19,13 +19,9 @@ After removing broad market exposure, which EV and automotive firms remain struc
 
 The resume-backed version used a 39-node residual-correlation network over 2022-2026 stock returns and reported a Node2Vec link-prediction mean ROC-AUC of 0.87.
 
-## Artifact Status
-
-The source notebook was found in the local `auto_network_project` folder and added here as the primary GitHub-viewable artifact.
-
 ## Files
 
-- `notebooks/auto_network.ipynb` - GitHub-viewable source notebook
+- `notebooks/auto_network.ipynb` - stock network analysis notebook
 - `src/build_stock_network.py` - reproducible script for data pull, residualization, network build, and graph metrics
 - `outputs/` - generated output directory when the script is run
 

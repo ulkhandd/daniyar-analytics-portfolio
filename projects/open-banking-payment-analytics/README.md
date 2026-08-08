@@ -36,10 +36,10 @@ The full raw CSV is excluded from GitHub because it is large. A small sample is 
 ## Files
 
 - `src/analyze_payments.py` - reproducible analysis script
-- `notebooks/payment_analytics.ipynb` - GitHub-viewable project notebook
+- `notebooks/payment_analytics.ipynb` - payment analytics notebook
 - `data/sample_payments.csv` - small GitHub-safe sample
 - `outputs/` - summary metrics generated from the full local dataset
-- `reports/PaymentAnalysis_Daniyar.pptx` - presentation artifact
+- `reports/PaymentAnalysis_Daniyar.pptx` - presentation deck
 
 ## How To Reproduce
 
