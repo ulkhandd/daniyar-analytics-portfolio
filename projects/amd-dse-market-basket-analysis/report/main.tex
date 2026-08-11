@@ -1,0 +1,87 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+
+\title{Market-Basket Analysis on the IMDB Movies Dataset}
+\author{Student name and student ID}
+\date{Algorithms for Massive Data, academic year 2025/26}
+
+\begin{document}
+\maketitle
+
+\section*{Declaration}
+
+I/We declare that this material, which I/We now submit for assessment, is
+entirely my/our own work and has not been taken from the work of others, save
+and to the extent that such work has been cited and acknowledged within the
+text of my/our work, and including any code produced using generative AI
+systems. I/We understand that plagiarism, collusion, and copying are grave and
+serious offences in the university and accept the penalties that would be
+imposed should I engage in plagiarism, collusion or copying. This assignment,
+or any part of it, has not been previously submitted by me/us or any other
+person for assessment on this or any other course of study.
+
+\section{Introduction}
+
+Describe the goal of the project: finding frequent actor co-appearances in the
+IMDB Movies Dataset using a market-basket analysis technique studied in the
+course.
+
+\section{Dataset And Scope}
+
+State that the dataset is the IMDB Movies Dataset from Kaggle. Describe the
+columns used, the number of movies considered, and whether the full dataset or
+a selected view was used.
+
+\section{Data Organization}
+
+Explain how movies were represented as baskets and how actor names from
+\texttt{Star1}, \texttt{Star2}, \texttt{Star3}, and \texttt{Star4} were
+represented as items.
+
+\section{Preprocessing}
+
+Describe missing-value handling, duplicate handling within a basket, text
+normalization, and any filtering choices.
+
+\section{Algorithms And Implementation}
+
+Describe the selected frequent-itemset technique. Explain the algorithmic idea,
+the implementation choices, and any parameters such as minimum support.
+
+\section{Scalability}
+
+Discuss how the solution scales with the number of baskets, number of distinct
+items, maximum itemset size, and support threshold. Include empirical runtime
+or candidate-count measurements.
+
+\section{Experiments}
+
+Describe the experimental setup, thresholds, hardware or Colab runtime, and the
+outputs collected.
+
+\section{Results And Discussion}
+
+Present the main frequent itemsets and interpret them. Discuss whether the
+patterns are meaningful and how this method relates to practical affinity
+analysis in domains such as product analytics or financial services.
+
+\section{Limitations}
+
+Discuss limitations of the dataset, small basket size, actor-credit ordering,
+and the fact that the IMDB setting is only an analogy for market-basket
+transactions.
+
+\section{Conclusion}
+
+Summarize what the implementation shows and what could be extended.
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
+
